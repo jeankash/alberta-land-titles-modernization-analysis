@@ -5,7 +5,7 @@
 
 ## Context
 
-Alberta Land Titles and Surveys processes real estate registrations underpinning more than $340 million in daily economic activity and over $50 billion annually. Between April 2021 and December 2022, submission volumes rose, driving title-transfer processing times to a peak of 84 business days (and survey processing to 55 business days) by December 2022. Through 2023, increased staffing and process changes brought processing back to a stated standard of 10–12 business days, with $10.5 million invested in early work toward a replacement system. The Law Society of Alberta has separately reported that a meaningful share of documents submitted from law offices are flagged with deficiencies, consuming examiner capacity and slowing registration for compliant submitters.
+Alberta Land Titles and Surveys processes real estate registrations underpinning more than $340 million in daily economic activity and over $50 billion annually. Between April 2021 and December 2022,submission volumes rose roughly 86%, driving title-transfer processing times to a peak of 84 business days (and survey processing to 55 business days) by December 2022. Through 2023, increased staffing and process changes brought processing back to a stated standard of 10–12 business days, with $10.5 million invested in early work toward a replacement system. The Law Society of Alberta has separately reported that a meaningful share of documents submitted from law offices are flagged with deficiencies, consuming examiner capacity and slowing registration for compliant submitters.
 
 The province is now transitioning users from legacy systems (SPIN2) toward the Alberta Registry for Land Online (ARLO), intended to streamline processes, reduce legacy-system reliance, and improve the search/access experience — with further rollout expected through 2026.
 
@@ -20,7 +20,7 @@ The province is now transitioning users from legacy systems (SPIN2) toward the A
 - A material share of submissions arrive with document deficiencies, generating rework loops between examiners and submitters
 - Dual-system environment: legacy SPIN2 alongside the newer ARLO platform, with users (lawyers, registry agents, the public) operating across both during transition
 - Limited public visibility into operational performance beyond point-in-time "currently registering" dates and periodic press releases
-- External users — real estate lawyers, registry agents, buyers/sellers, lenders — bear the direct cost of delays (financing gaps, late tax penalties, delayed subdivision approvals)
+- Registration delays can create downstream timing, financing, and service impacts for legal professionals, registry users, lenders, and parties to real-estate transactions.
 
 ## Desired State
 
