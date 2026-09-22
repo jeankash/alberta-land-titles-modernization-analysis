@@ -7,7 +7,7 @@
 | Stakeholder | Need | Concern | Influence | Interest | Engagement Strategy | Evidence Status |
 |---|---|---|---|---|---|---|
 | Land Titles examiners | Correct, complete submissions | Rework/workload from deficiencies | High | High | Consult directly when designing intake validation and UAT scenarios | Publicly identified — examiner workload and processing capacity are discussed in Alberta government reporting |
-| Service Alberta management | Stable, measurable performance | Cost, backlog recurrence, public scrutiny | High | High | Keep informed via executive-level reporting and dashboard views | Publicly identified — named accountable body in Land Titles reporting |
+| Service Alberta and Red Tape Reduction / Land Titles and Surveys leadership | Stable, measurable performance | Cost, backlog recurrence, public scrutiny | High | High | Keep informed via executive-level reporting and dashboard views | Publicly identified — named accountable body in Land Titles reporting |
 | Real estate lawyers / law firms | Fast, predictable registration | Deficiencies, rejections, client liability | High | High | Consult on root causes of deficiencies; involve in requirements validation | Publicly identified — explicitly named in Law Society of Alberta reporting on document deficiency rates |
 | Registry agents | Reliable, well-documented processes | User experience, training burden during system transition | Medium | High | Inform early and provide training material ahead of rollout | Publicly identified — referenced as external users of the land titles registration system |
 | Property buyers / sellers | Timely, transparent transactions | Delays affecting financing, moving dates, tax penalties | Low–Medium | Medium | Inform indirectly through public communications and status transparency | Publicly identified — general public knowledge of who is affected by registration delays |
@@ -19,8 +19,8 @@
 
 ## Evidence Status Legend
 
-- **Publicly identified** — this stakeholder group is explicitly named or clearly described in publicly available sourcing (government reports, news releases, professional-body reporting).
-- **Inferred internal stakeholder** — not named in public sourcing, but a reasonable and standard organizational function for a project of this type (e.g. a privacy/security function for any system handling personal data). Actual team names, structures, or ownership are not claimed.
+- **Publicly identified** — Alberta government communications explicitly identify Albertans involved in real-estate transactions as users affected by Land Titles service performance.
+- **Inferred internal stakeholder** — the ARLO modernization initiative is publicly documented; the specific internal project-team structure and responsibilities are not assumed to be publicly known.
 - **Assumed project stakeholder** — a logical downstream or adjacent party based on how the business process works, included for completeness, but with no public confirmation of their specific involvement.
 
 This distinction is kept visible throughout the case study rather than presented as uniform fact — real analysts work with partial information, and separating "what's documented" from "what's a reasonable working assumption" is itself part of the deliverable.
